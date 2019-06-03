@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="803afbcf-ff1f-453f-811f-3501f4fc4738" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/composing/extract-method_before.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/composing/extract-method_before.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/organizing_data/replace-magic-number-with-symbolic-constant_before.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/organizing_data/replace-magic-number-with-symbolic-constant_before.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simplifying_conditional_expressions/decompose-conditional_before.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simplifying_conditional_expressions/decompose-conditional_before.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simplifying_method_calls/replace-parameter-with-explicit-methods_before.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simplifying_method_calls/replace-parameter-with-explicit-methods_before.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -112,6 +110,7 @@
         <option value="$PROJECT_DIR$/src/organizing_data/replace-magic-number-with-symbolic-constant_before.java" />
         <option value="$PROJECT_DIR$/src/simplifying_conditional_expressions/decompose-conditional_before.java" />
         <option value="$PROJECT_DIR$/src/composing/extract-method_before.java" />
+        <option value="$PROJECT_DIR$/src/simplifying_method_calls/replace-parameter-with-explicit-methods_before.java" />
       </list>
     </option>
   </component>
@@ -317,12 +316,12 @@
       <option name="presentableId" value="Default" />
       <updated>1559568561150</updated>
       <workItem from="1559568568389" duration="665000" />
-      <workItem from="1559572162218" duration="3074000" />
+      <workItem from="1559572162218" duration="3509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3741000" />
+    <option name="totallyTimeSpent" value="4176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="254" y="23" width="1250" height="724" extended-state="0" />
