@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="803afbcf-ff1f-453f-811f-3501f4fc4738" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/composing/split-temporary-variable_before.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/composing/split-temporary-variable_before.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simplifying_conditional_expressions/consolidate-conditional-expression_before.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simplifying_conditional_expressions/consolidate-conditional-expression_before.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,11 +44,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/composing/split-temporary-variable_before.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+            <state relative-caret-position="45">
+              <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/simplifying_conditional_expressions/consolidate-conditional-expression_before.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -65,6 +74,7 @@
         <option value="$PROJECT_DIR$/src/composing/extract-variable_before.java" />
         <option value="$PROJECT_DIR$/src/composing/inline-method_before.java" />
         <option value="$PROJECT_DIR$/src/composing/split-temporary-variable_before.java" />
+        <option value="$PROJECT_DIR$/src/simplifying_conditional_expressions/consolidate-conditional-expression_before.java" />
       </list>
     </option>
   </component>
@@ -97,7 +107,7 @@
               <item name="refactoring-alessiayi" type="b2602c69:ProjectViewProjectNode" />
               <item name="refactoring-alessiayi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="composing" type="462c0819:PsiDirectoryNode" />
+              <item name="simplifying_conditional_expressions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -270,12 +280,12 @@
       <option name="presentableId" value="Default" />
       <updated>1559568561150</updated>
       <workItem from="1559568568389" duration="665000" />
-      <workItem from="1559572162218" duration="1664000" />
+      <workItem from="1559572162218" duration="2009000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2331000" />
+    <option name="totallyTimeSpent" value="2676000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="30" y="23" width="1250" height="724" extended-state="0" />
@@ -341,8 +351,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/composing/split-temporary-variable_before.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        <state relative-caret-position="45">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simplifying_conditional_expressions/consolidate-conditional-expression_before.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
