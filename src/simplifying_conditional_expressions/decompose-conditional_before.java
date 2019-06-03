@@ -1,5 +1,5 @@
 boolean isWinter(){
-    return date.before(SUMMER_START) || date.after(SUMMER_END)
+    return date.before(SUMMER_START) || date.after(SUMMER_END);
 
 }
 

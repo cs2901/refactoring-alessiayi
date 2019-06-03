@@ -1,3 +1,4 @@
 double potentialEnergy(double mass, double height) {
-  return mass * height * 9.81;
+  static final int magicnumber = 9.81;
+  return mass * height * magicnumber;
 }

@@ -1,6 +1,6 @@
 void printOwing() {
   printBanner();
-  printDetails(getOustanding())
+  printDetails(getOustanding());
 
 }
 
