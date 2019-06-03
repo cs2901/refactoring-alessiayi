@@ -1,6 +1,6 @@
 void renderBanner() {
 final boolean findMAC = platform.toUpperCase().indexOf("MAC") > -1;
-final boolena findIE = browser.toUpperCase().indexOf("IE") > -1;
+final boolean findIE = browser.toUpperCase().indexOf("IE") > -1;
 
   if ((findMAC) &&
        (findIE) &&
